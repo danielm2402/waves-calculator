@@ -252,6 +252,40 @@ export default function Index(props) {
                             </MathJax.Context>
 
                         </div>
+
+                        <div className="title">
+                            <h4>Nodos campo electrico y magnetico</h4>
+                        </div>
+                        <div className="ecuation">
+                            <MathJax.Context input='ascii'>
+                                <div>
+                                    <MathJax.Node >{`x=${props.response.nodosCampoElectrico}`}</MathJax.Node>
+                                </div>
+                            </MathJax.Context>
+                            <MathJax.Context input='ascii'>
+                                <div>
+                                    <MathJax.Node >{`x=${props.response.nodosCampoMagnetico}`}</MathJax.Node>
+                                </div>
+                            </MathJax.Context>
+
+                        </div>
+
+                        <div className="title">
+                            <h4>antiNodos campo electrico y magnetico</h4>
+                        </div>
+                        <div className="ecuation">
+                            <MathJax.Context input='ascii'>
+                                <div>
+                                    <MathJax.Node >{`x=${props.response.antiNodosCampoElectrico}`}</MathJax.Node>
+                                </div>
+                            </MathJax.Context>
+                            <MathJax.Context input='ascii'>
+                                <div>
+                                    <MathJax.Node >{`x=${props.response.antinodosCampoMagnetico}`}</MathJax.Node>
+                                </div>
+                            </MathJax.Context>
+
+                        </div>
                     </div>
 
                 </div>

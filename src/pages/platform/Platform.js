@@ -46,7 +46,7 @@ export default function Platform() {
         setType(name)
     }
     useEffect(() => {
-        setResponseWaves(waves(configInputsWaves.ommega.data, configInputsWaves.n.data, configInputsWaves.n1.data, configInputsWaves.n2.data,configInputsWaves.emax.data ,configInputsWaves.er.data))
+        setResponseWaves(waves(configInputsWaves.ommega.data, configInputsWaves.n.data, configInputsWaves.n1.data, configInputsWaves.n2.data,configInputsWaves.emax.data ,configInputsWaves.er.data, configInputsWaves.length.data))
 
     }, [configInputsWaves])
 
