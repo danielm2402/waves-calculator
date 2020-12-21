@@ -65,7 +65,7 @@ export default function Index(props) {
                     {
                         fn: `${props.inputs.emax.data}*cos((${props.response.k ? props.response.k : 0}*x)-${props.inputs.ommega.data})`,
                         color: 'red',
-                        
+
                     },
                     {
                         fn: `${props.inputs.emax.data}*cos((${props.response.k_2 ? props.response.k_2 : 0}*x)-${props.inputs.ommega.data})`,
@@ -88,7 +88,7 @@ export default function Index(props) {
                     {
                         fn: `${props.response.bi}*cos((${props.response.k ? props.response.k : 0}*x)-${props.inputs.ommega.data})`,
                         color: 'red',
-                        
+
                     },
                     {
                         fn: `${props.response.bt}*cos((${props.response.k_2 ? props.response.k_2 : 0}*x)-${props.inputs.ommega.data})`,
@@ -297,13 +297,54 @@ export default function Index(props) {
                     </div>
 
                 </div>
+                <div style={{ marginTop: 200 }}>
+                    <h5>Grafica Ondas reflejada e incidente</h5>
 
-                <h5>Grafica Ondas reflejada e incidente</h5>
-                <div style={{ paddingTop: 120, display: 'flex', flexDirection: 'column' }}>
-                    <div id="graph3">
-                    </div>
+                    <div style={{ paddingTop: 20, display: 'flex', flexDirection: 'column' }}>
+                        <div id="graph3">
+                        </div>
+                        <div style={{ display: 'flex' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                <div style={{ width: 10, height: 10, backgroundColor: 'red' }}>
 
-                    <div id="graph4">
+                                </div>
+                                <h6>Incidente</h6>
+                            </div>
+                            <div style={{ display: 'flex', flexDirection: 'column', paddingLeft: 10 }}>
+                                <div style={{ width: 10, height: 10, backgroundColor: 'green' }}>
+
+                                </div>
+                                <h6>Reflejada</h6>
+                            </div>
+                            <div style={{ display: 'flex', flexDirection: 'column', paddingLeft: 10 }}>
+                                <div style={{ width: 10, height: 10, backgroundColor: 'blue' }}>
+
+                                </div>
+                                <h6>Transmitida</h6>
+                            </div>
+                        </div>
+                        <div id="graph4">
+                        </div>
+                        <div style={{ display: 'flex' }}>
+                            <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                <div style={{ width: 10, height: 10, backgroundColor: 'red' }}>
+
+                                </div>
+                                <h6>Incidente</h6>
+                            </div>
+                            <div style={{ display: 'flex', flexDirection: 'column', paddingLeft: 10 }}>
+                                <div style={{ width: 10, height: 10, backgroundColor: 'green' }}>
+
+                                </div>
+                                <h6>Reflejada</h6>
+                            </div>
+                            <div style={{ display: 'flex', flexDirection: 'column', paddingLeft: 10 }}>
+                                <div style={{ width: 10, height: 10, backgroundColor: 'blue' }}>
+
+                                </div>
+                                <h6>Transmitida</h6>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
