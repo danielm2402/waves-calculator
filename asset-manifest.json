@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/waves-calculator/static/css/main.c3bcaae7.chunk.css",
-    "main.js": "/waves-calculator/static/js/main.a1da0ca5.chunk.js",
-    "main.js.map": "/waves-calculator/static/js/main.a1da0ca5.chunk.js.map",
+    "main.js": "/waves-calculator/static/js/main.a9e7fb75.chunk.js",
+    "main.js.map": "/waves-calculator/static/js/main.a9e7fb75.chunk.js.map",
     "runtime-main.js": "/waves-calculator/static/js/runtime-main.d2e564d3.js",
     "runtime-main.js.map": "/waves-calculator/static/js/runtime-main.d2e564d3.js.map",
     "static/js/2.12d1c425.chunk.js": "/waves-calculator/static/js/2.12d1c425.chunk.js",
     "static/js/2.12d1c425.chunk.js.map": "/waves-calculator/static/js/2.12d1c425.chunk.js.map",
     "index.html": "/waves-calculator/index.html",
-    "precache-manifest.c3402fb3b03743a1c18ffa21d738bb53.js": "/waves-calculator/precache-manifest.c3402fb3b03743a1c18ffa21d738bb53.js",
+    "precache-manifest.7bc821554b639caf63b8263f8e2746ce.js": "/waves-calculator/precache-manifest.7bc821554b639caf63b8263f8e2746ce.js",
     "service-worker.js": "/waves-calculator/service-worker.js",
     "static/css/main.c3bcaae7.chunk.css.map": "/waves-calculator/static/css/main.c3bcaae7.chunk.css.map",
     "static/js/2.12d1c425.chunk.js.LICENSE.txt": "/waves-calculator/static/js/2.12d1c425.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d2e564d3.js",
     "static/js/2.12d1c425.chunk.js",
     "static/css/main.c3bcaae7.chunk.css",
-    "static/js/main.a1da0ca5.chunk.js"
+    "static/js/main.a9e7fb75.chunk.js"
   ]
 }

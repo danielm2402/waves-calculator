@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/waves-calculator/precache-manifest.c3402fb3b03743a1c18ffa21d738bb53.js"
+  "/waves-calculator/precache-manifest.7bc821554b639caf63b8263f8e2746ce.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "166844938b3413344d44c23c43ba9b20",
+    "revision": "9c1f24535f5cc8f61e53b3d793d96b83",
     "url": "/waves-calculator/index.html"
   },
   {
-    "revision": "2717444b83635cc42b89",
+    "revision": "b4635828a380c7cb5529",
     "url": "/waves-calculator/static/css/main.c3bcaae7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/waves-calculator/static/js/2.12d1c425.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2717444b83635cc42b89",
-    "url": "/waves-calculator/static/js/main.a1da0ca5.chunk.js"
+    "revision": "b4635828a380c7cb5529",
+    "url": "/waves-calculator/static/js/main.a9e7fb75.chunk.js"
   },
   {
     "revision": "85f920b6b350174547cd",
