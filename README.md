@@ -1,6 +1,7 @@
-# [Non Responsive Waves Calculator](https://github.com/danielm2402/phone-book)
+# [Non Responsive Waves Calculator](https://danielm2402.github.io/waves-calculator/)
 Calculates the equations of insident, reflected and transmitted wave, transmission and reflection coefficients.
 
+## [Try it yourself](https://danielm2402.github.io/waves-calculator/)
 
 ## Features
 * [ReactJS]
@@ -24,4 +25,5 @@ Run project:
 ![IMG4](./src/assets/main3.png)
 ![IMG5](./src/assets/main4.png)
 
+Sorry for not making the project responsive, time is short.
 
