@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c1f24535f5cc8f61e53b3d793d96b83",
+    "revision": "83d9818ce72e4fbef59c5cae9eeb5097",
     "url": "/waves-calculator/index.html"
   },
   {
-    "revision": "b4635828a380c7cb5529",
+    "revision": "a813cd3340bb60e920d9",
     "url": "/waves-calculator/static/css/main.c3bcaae7.chunk.css"
   },
   {
-    "revision": "2c5a8920490a07db308d",
-    "url": "/waves-calculator/static/js/2.12d1c425.chunk.js"
+    "revision": "6472ff366a15f4244dcd",
+    "url": "/waves-calculator/static/js/2.479fbead.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/waves-calculator/static/js/2.12d1c425.chunk.js.LICENSE.txt"
+    "url": "/waves-calculator/static/js/2.479fbead.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4635828a380c7cb5529",
-    "url": "/waves-calculator/static/js/main.a9e7fb75.chunk.js"
+    "revision": "a813cd3340bb60e920d9",
+    "url": "/waves-calculator/static/js/main.b8fe7c99.chunk.js"
   },
   {
     "revision": "85f920b6b350174547cd",
